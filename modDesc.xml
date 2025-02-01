@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<modDesc descVersion="95">
+    <author>Bitfogav</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Extended Grass Header</en>
+    </title>
+    <description>
+        <en><![CDATA[Extended Grass Header, Change colour.]]></en>
+        <de><![CDATA[Erweiterte Grasüberschrift, Farbe ändern.]]></de>
+    </description>
+    <iconFilename>icon_duett7300mod.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="duett7300mod.xml" />
+    </storeItems>
+</modDesc>
