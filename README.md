@@ -1,2 +1,2 @@
 # FS25_duett7300
-FS25 in-game mower Duett7300, made into mod to change colour to the frame and body. 
+Mod FS25 Duett 7300, add the option to change colour.
